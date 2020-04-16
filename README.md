@@ -1,2 +1,6 @@
 # ShengDownload
-2020-4-15 panDownload终究倒下，没能逃过xxx的xxx。他的替代品ShengDownload即日起正式启动。基于ShengLang开发，跨平台
+
+
+这个仓库本来是 随便建着玩的，和群友一起乐乐。包括shengLang 也只是群里面假想的语言。
+万万没想到，刚开几分钟，就被人fork了，当我们删除仓库之后，这个人的fork分支就变成了上游，今天上午 star量暴增，
+我们意识到问题变得严重，希望大家停止传播吧。 抱歉。
